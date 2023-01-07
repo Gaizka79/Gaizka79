@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gaizka79&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+![github stats](https://github-readme-stats.vercel.app/api?username=Gaizka79&show_icons=true&theme=radical)
