@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://github-profile-trophy.vercel.app/?username=Gaizka79&theme=darkhub
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gaizka79&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
