@@ -6,13 +6,13 @@
 
 Here are some ideas to get you started:
 
-<-- - 🔭 I’m currently working on ... -->
+<!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning some programming language, like phyton, php ...
 - 👯 I’m looking to collaborate in a development team
-<-- - 🤔 I’m looking for help with ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about be part of your team
 - 📫 How to reach me: agaizka@hotmail.com
-<-- - 😄 Pronouns: ... 
+<!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gaizka79&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
