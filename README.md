@@ -5,10 +5,11 @@
 -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning some programming language, like phyton, php ...
+- 🌱 I’m currently learning some programming languages, like phyton, FastAPI, php ...
 - 👯 I’m looking to collaborate in a development team
 - 💬 Ask me about be part of your team
 - 📫 How to reach me: agaizka@hotmail.com
+- 
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 
