@@ -8,6 +8,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gaizka79&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaizka79&show_icons=true&locale=en&layout=compact" alt="gaizka79" /></p>
+
+
 ## You can see my portfolio at:
   https://gaizka79.github.io/portfolio/
 
