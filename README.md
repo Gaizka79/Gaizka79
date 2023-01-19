@@ -1,5 +1,10 @@
 # &lt;Hello World/&gt; 👋
 
+<p><b>I am a junior full stack developer looking for opportunities to grow in the world of web development.
+            I started programming in the 20th century with Visual Basic and C++, then I gave up computer science for a few years, and now I'm back in this world with web design.</b></p>
+
+
+
 - 🌱 I’m currently learning some programming languages, like phyton and php, framework FastAPI ...
 - 👯 I’m looking to collaborate in a development team with a Full Stack project
 - 💬 Ask me about be part of your team
