@@ -46,6 +46,6 @@ _____
 ## You can see my portfolio at:
   ### https://gaizka79.github.io/portfolio/
   
-  ##### <a href="./assests/Curriculum_Gaizka.pdf" download="Curriculum_Gaizka">&#128221; You can also download my CV...</a>
+  ##### <a href="./assests/Gaizka_arrondo_cv.pdf" download="Gaizka_arrondo_cv.pdf">&#128221; You can also download my CV...</a>
   
 
